@@ -2,12 +2,11 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: 'Playfair Display', serif !important;
+  font-family: "Playfair Display", serif !important;
   background: beige !important;
   color: #170b53 !important;
   transition: background ease-out 0.3s;
 }
-
 
 /* NAVBAR LIGHT-MODE */
 
@@ -23,7 +22,7 @@ iconify-icon {
 
 .section-head-title {
   font-size: 36px !important;
-  color: #170b53!important;
+  color: #170b53 !important;
   font-weight: 700 !important;
 }
 
@@ -100,7 +99,6 @@ iconify-icon.social {
   color: #170b53;
   cursor: pointer;
 }
-
 
 h3.section-1-head {
   font-size: 20px;
@@ -256,7 +254,7 @@ p.qualification-date {
   cursor: pointer;
 }
 
-.work-btn h2{
+.work-btn h2 {
   color: #847ab7 !important;
 }
 
@@ -284,8 +282,7 @@ p.qualification-date {
   grid-template-columns: repeat(3, 1fr) !important;
 }
 
-
-.gallery-container img.gallery-image{
+.gallery-container img.gallery-image {
   width: 100%;
   height: 265px;
   border-radius: 0.5rem;
@@ -300,7 +297,6 @@ p.qualification-date {
 .section-6 {
   margin-bottom: 150px;
 }
-
 
 /* SECTION-7 STYLING */
 
@@ -318,17 +314,16 @@ p.qualification-date {
   font-size: 16px !important;
 }
 
-.certification-container{
+.certification-container {
   gap: 1rem;
 }
 
-
 /* SECTION-8 STYLING */
-.section-8{
-  margin-bottom: 150px !important;
+.section-8 {
+  margin-bottom: 700px !important;
 }
 
-.section-8 ul li{
+.section-8 ul li {
   list-style: none;
   font-size: 17px !important;
 }
@@ -341,7 +336,6 @@ p.qualification-date {
 .section-9 .contact {
   gap: 3rem;
 }
-
 
 .contact-dets {
   gap: 2rem;
@@ -396,9 +390,8 @@ footer {
   gap: 4rem;
 }
 
-
-iconify-icon.footer-social{
-  color: #fff
+iconify-icon.footer-social {
+  color: #fff;
 }
 
 /* Main section styling END */
@@ -408,7 +401,6 @@ iconify-icon.footer-social{
   .custom-container {
     width: 95% !important;
   }
-
 
   a.section-btn {
     padding: 1.05rem;
@@ -425,7 +417,6 @@ iconify-icon.footer-social{
     display: none !important;
   }
 
-
   .navbar .page-padding {
     padding: 0px !important;
   }
@@ -436,12 +427,12 @@ iconify-icon.footer-social{
     z-index: 60;
     width: 100%;
     align-items: center;
-    background: #170b53!important;
+    background: #170b53 !important;
     padding: 0.8rem;
     transition: 0.5s;
   }
 
-  .mobile-navbar .navbar-name a{
+  .mobile-navbar .navbar-name a {
     color: beige;
     text-decoration: none;
   }
@@ -482,7 +473,6 @@ iconify-icon.footer-social{
     color: beige !important;
   }
 
-
   /* SECTION-1 STYLING */
   .section-1 {
     margin-top: 100px;
@@ -508,7 +498,7 @@ iconify-icon.footer-social{
     order: 2 !important;
   }
 
-  .section-head-title{
+  .section-head-title {
     font-size: 30px !important;
   }
 
@@ -567,7 +557,6 @@ iconify-icon.footer-social{
     font-size: 15px;
   }
 
-
   p.section-2-desc {
     font-size: 15px;
     text-align: center;
@@ -618,7 +607,6 @@ iconify-icon.footer-social{
     grid-template-columns: repeat(1, 1fr) !important;
   }
 
-
   /* SECTION-6 STYLING */
 
   .section-6 {
@@ -651,13 +639,12 @@ iconify-icon.footer-social{
     font-size: 17px !important;
   }
 
-
   /* SECTION-9 STYLING */
   .contact {
     flex-direction: column !important;
   }
 
-  .contact-dets{
+  .contact-dets {
     flex-direction: column;
   }
 
@@ -673,5 +660,4 @@ iconify-icon.footer-social{
   .footer-icon {
     gap: 4rem;
   }
-
 }
