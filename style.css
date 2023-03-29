@@ -531,11 +531,11 @@ iconify-icon.footer-social{
     font-size: 15px !important;
   }
 
-  img.section-1-img {
+  img.section-img {
     display: block !important;
     margin: auto !important;
-    width: 53%;
-    margin-bottom: 2rem !important;
+    width: 70%;
+    margin-bottom: 1rem !important;
     /* margin-left: 50px; */
   }
 
