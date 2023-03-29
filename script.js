@@ -48,7 +48,7 @@ function workExp() {
   workRoadMap.classList.add("show");
   workButtonText.setAttribute("style", "color:#170b53 !important");
   educationRoadMap.classList.add("remove");
-  educationButtonText.setAttribute("style", "color:#000 !important");
+  educationButtonText.setAttribute("style", "color:#847ab7 !important");
 }
 
 function educationExp() {
@@ -56,7 +56,7 @@ function educationExp() {
   educationRoadMap.classList.add("show");
   educationButtonText.setAttribute("style", "color:#170b53 !important");
   workRoadMap.classList.add("remove");
-  workButtonText.setAttribute("style", "color:#000 !important");
-  workButtonTextLight.setAttribute("style", "color:#000 !important");
+  workButtonText.setAttribute("style", "color:#847ab7 !important");
+  workButtonTextLight.setAttribute("style", "color:#847ab7 !important");
 }
 // education and work roadmap toggle END
