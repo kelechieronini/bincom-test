@@ -1,1 +1,1 @@
-live page at https://eronini-portfolio.netlify.app/
+live page at https://eronini-bincom.netlify.app/
